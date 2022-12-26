@@ -1,0 +1,1 @@
+# launch_ec2_with_latest_amzn_image
